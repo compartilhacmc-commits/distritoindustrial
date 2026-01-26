@@ -9,7 +9,7 @@ function gvizCsvUrl(sheetId, gid) {
 // ===================================
 // CONFIGURAÇÃO DA PLANILHA (DUAS ABAS)
 // ===================================
-// PLANILHA "INDUSTRIAL"
+// ✅ PLANILHA "INDUSTRIAL"
 const SHEET_ID = '14eUVIsWPubMve4DhVjVwlh7gin-qVyN3PspkwQ1PZMg';
 
 const SHEETS = [
